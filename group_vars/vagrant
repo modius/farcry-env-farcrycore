@@ -3,7 +3,7 @@
   role_awscli: false
   role_railo: false
   role_lucee: true
-  domains: [ "farcrycore.local", "192.198.3.22" ]
+  domains: [ "farcrycore.local", "192.198.3.23" ]
   memcached_log_path: "/logs/memcached.log"
   mysql_error_log_path: "/logs/mysql-error.log"
   nginx_access_log_path: "/logs/nginx-access.log"

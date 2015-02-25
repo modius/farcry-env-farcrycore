@@ -4,7 +4,7 @@
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
 # WEB_SERVER must be unique for local private network
-WEB_SERVER = "192.168.3.22"
+WEB_SERVER = "192.168.3.23"
 # WEB_HOSTNAME must match ./group_vars/vagrant domains setting
 WEB_HOSTNAME = "farcrycore.local"
 
